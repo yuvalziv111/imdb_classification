@@ -1,0 +1,1 @@
+{"body_learning_rate": 0.00017157610136629998, "learning_rate": 0.0006631067948621269, "num_epochs": 17, "batch_size": 6, "seed": 25, "max_iter": 149, "solver": "liblinear", "head_learning_rate": 0.001640100988107923}
